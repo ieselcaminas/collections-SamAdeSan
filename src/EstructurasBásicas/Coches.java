@@ -1,8 +1,6 @@
-import java.util.*;
-//import java.util.ArrayList;
-//import java.util.Collections;
-//import java.util.Scanner;
+package EstructurasBásicas;
 
+import java.util.*;
 public class Coches {
     public static void main(String[] args) {
         ArrayList<String> coches = new ArrayList<>();
