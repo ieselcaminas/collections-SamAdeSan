@@ -1,4 +1,4 @@
-package EstructurasBásicas;
+package Extras.EjerciciosRefuerzoII.EstructurasBásicas;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -13,5 +13,6 @@ public class PaisCapital {
         String paisIntroducido = "España";
         if (pais.containsKey(paisIntroducido)) {
             System.out.println("La capital de " + paisIntroducido + " es " + pais.get(paisIntroducido));
+        } else System.out.println("ERR.");
     }
 }

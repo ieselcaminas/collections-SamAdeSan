@@ -1,4 +1,4 @@
-package Flujos_Streams;
+package Extras.EjerciciosRefuerzoII.Flujos;
 
 public class Person {
     private String firstName;

@@ -1,4 +1,4 @@
-package EstructurasBásicas;
+package Extras.EjerciciosRefuerzoII.EstructurasBásicas;
 
 import java.util.HashMap;
 import java.util.Map;

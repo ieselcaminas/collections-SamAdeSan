@@ -12,8 +12,5 @@ public class Ejercicio1 {
         List<Person> personas = new ArrayList<>();
 
         personas.add(new Person("Tomás", "Turbado", 1999));
-        personas.stream()
-                .sorted()
-                .forEach(System.out::println);
     }
 }

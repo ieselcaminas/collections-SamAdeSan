@@ -7,7 +7,6 @@ import java.util.*;
 public class AscendenteAnalfabetas {
     public static void main(String[] args) throws IOException {
         BufferedReader lector = new BufferedReader(new FileReader("files/illiterate.csv"));
-        List<Pais> paises = new ArrayList<>();
         Pais pais;
         String linea;
         String[] datos;
