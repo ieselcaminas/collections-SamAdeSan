@@ -13,5 +13,6 @@ public class PaisCapital {
         String paisIntroducido = "España";
         if (pais.containsKey(paisIntroducido)) {
             System.out.println("La capital de " + paisIntroducido + " es " + pais.get(paisIntroducido));
+        }
     }
 }

@@ -4,37 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="46422cc0-d7bf-4483-af62-a77176abd959" name="Changes" comment="Coches.java">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Altura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Anagramas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CountCountries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejemplo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EjemploForEach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejemplo_HashMap_Treemap_Linkhashmap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Frequency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaMejorTerminacion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PaisCapital.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Telefonos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Telefonos2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+    <list default="true" id="46422cc0-d7bf-4483-af62-a77176abd959" name="Changes" comment="Estructuras de datos">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Coches.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coches.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/SampleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/SampleTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testsOriginal/AnagramsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/testsOriginal/AnagramsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testsOriginal/BotinTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/testsOriginal/BotinTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testsOriginal/CountCountriesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/testsOriginal/CountCountriesTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testsOriginal/EvaluarExpresionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/testsOriginal/EvaluarExpresionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testsOriginal/FrequencyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/testsOriginal/FrequencyTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testsOriginal/LastNameFrequencyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/testsOriginal/LastNameFrequencyTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testsOriginal/ParentesisTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/testsOriginal/ParentesisTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testsOriginal/PortalesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/testsOriginal/PortalesTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testsOriginal/SorteoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/testsOriginal/SorteoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClassroomCollecctions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ClassroomCollecctions.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Flujos_Streams/Actividades/MainActividades.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterfazComparable/Actividades/MainActividades.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Flujos_Streams/Actividades/felipe/Felipe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterfazComparable/Actividades/felipe/Felipe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Flujos_Streams/Actividades/felipe/TareasFelipe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterfazComparable/Actividades/felipe/TareasFelipe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Flujos_Streams/Actividades/ninosbuenos/Buenos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterfazComparable/Actividades/ninosbuenos/Buenos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Flujos_Streams/Actividades/ninosbuenos/ninosBuenos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Flujos_Streams/Comparable/AscendenteAnalfabetas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterfazComparable/AscendenteAnalfabetas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Flujos_Streams/Comparable/EjemploOrdenarSiNombresIguales.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterfazComparable/EjemploOrdenarSiNombresIguales.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Flujos_Streams/Comparable/Ejercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterfazComparable/Ejercicio1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Flujos_Streams/Comparable/Salario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterfazComparable/Salario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Flujos_Streams/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterfazComparable/ClasesIC/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Flujos_Streams/Human2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterfazComparable/ClasesIC/Human2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Flujos_Streams/Human2Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterfazComparable/ClasesIC/Mains/Human2Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Flujos_Streams/HumanMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterfazComparable/ClasesIC/Mains/HumanMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Flujos_Streams/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterfazComparable/ClasesIC/Member.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Flujos_Streams/MemberMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterfazComparable/ClasesIC/Mains/MemberMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Flujos_Streams/Pais.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterfazComparable/ClasesIC/Pais.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Flujos_Streams/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Flujos_Streams/ClasesFlujos/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Flujos_Streams/PersonMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Flujos_Streams/ClasesFlujos/PersonMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,12 +48,12 @@
     &quot;assignee&quot;: &quot;SamAdeSan&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/ieselcaminas/collections-SamAdeSan.git&quot;,
-    &quot;accountId&quot;: &quot;4afe77ea-adef-48bb-80a2-85e9ada33594&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ieselcaminas/collections-SamAdeSan.git",
+    "accountId": "57e8afa6-b448-4d74-ae28-7874135c2c6c"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -89,10 +80,12 @@
     "Application.Telefonos2.executor": "Debug",
     "Application.Telefonos2_2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/samadesan/IdeaProjects/Tema5",
+    "last_opened_file_path": "D:/Mis Archivos (Disco duro)/Archivos de trabajo/FP Superior de DAW/Programación/Programas/Bloque 3 - Estructuras de datos/collections-SamAdeSan",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -179,6 +172,11 @@
       <workItem from="1733394339178" duration="23000" />
       <workItem from="1733394370740" duration="3922000" />
       <workItem from="1733399085445" duration="2117000" />
+      <workItem from="1737112457797" duration="223000" />
+      <workItem from="1737112730922" duration="14000" />
+      <workItem from="1737113132561" duration="65000" />
+      <workItem from="1737918530980" duration="13000" />
+      <workItem from="1738062537611" duration="1324000" />
     </task>
     <task id="LOCAL-00001" summary="Coches.java">
       <option name="closed" value="true" />
@@ -188,7 +186,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732792045513</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Estructuras de datos">
+      <option name="closed" value="true" />
+      <created>1737112521638</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1737112521638</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,7 +202,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Coches.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Coches.java" />
+    <MESSAGE value="Estructuras de datos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Estructuras de datos" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
