@@ -4,29 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="46422cc0-d7bf-4483-af62-a77176abd959" name="Changes" comment="Estructuras de datos">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClassroomCollecctions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ClassroomCollecctions.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Flujos_Streams/Actividades/MainActividades.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterfazComparable/Actividades/MainActividades.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Flujos_Streams/Actividades/felipe/Felipe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterfazComparable/Actividades/felipe/Felipe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Flujos_Streams/Actividades/felipe/TareasFelipe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterfazComparable/Actividades/felipe/TareasFelipe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Flujos_Streams/Actividades/ninosbuenos/Buenos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterfazComparable/Actividades/ninosbuenos/Buenos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Flujos_Streams/Actividades/ninosbuenos/ninosBuenos.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Flujos_Streams/Comparable/AscendenteAnalfabetas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterfazComparable/AscendenteAnalfabetas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Flujos_Streams/Comparable/EjemploOrdenarSiNombresIguales.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterfazComparable/EjemploOrdenarSiNombresIguales.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Flujos_Streams/Comparable/Ejercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterfazComparable/Ejercicio1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Flujos_Streams/Comparable/Salario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterfazComparable/Salario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Flujos_Streams/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterfazComparable/ClasesIC/Human.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Flujos_Streams/Human2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterfazComparable/ClasesIC/Human2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Flujos_Streams/Human2Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterfazComparable/ClasesIC/Mains/Human2Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Flujos_Streams/HumanMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterfazComparable/ClasesIC/Mains/HumanMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Flujos_Streams/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterfazComparable/ClasesIC/Member.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Flujos_Streams/MemberMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterfazComparable/ClasesIC/Mains/MemberMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Flujos_Streams/Pais.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterfazComparable/ClasesIC/Pais.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Flujos_Streams/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Flujos_Streams/ClasesFlujos/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Flujos_Streams/PersonMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Flujos_Streams/ClasesFlujos/PersonMain.java" afterDir="false" />
-    </list>
+    <list default="true" id="46422cc0-d7bf-4483-af62-a77176abd959" name="Changes" comment="Estructuras de datos" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,12 +26,12 @@
     &quot;assignee&quot;: &quot;SamAdeSan&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/ieselcaminas/collections-SamAdeSan.git",
-    "accountId": "57e8afa6-b448-4d74-ae28-7874135c2c6c"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ieselcaminas/collections-SamAdeSan.git&quot;,
+    &quot;accountId&quot;: &quot;57e8afa6-b448-4d74-ae28-7874135c2c6c&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -63,40 +41,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AlturaArrayList.executor": "Run",
-    "Application.Anagramas.executor": "Run",
-    "Application.Coches.executor": "Run",
-    "Application.CountCountries.executor": "Run",
-    "Application.Ejemplo1.executor": "Run",
-    "Application.ForEach.executor": "Run",
-    "Application.Frequency.executor": "Run",
-    "Application.Frequency_S.executor": "Run",
-    "Application.LaMejorTerminacion.executor": "Run",
-    "Application.LastNameFrequency.executor": "Run",
-    "Application.PaisCapital.executor": "Run",
-    "Application.Telefonos.executor": "Run",
-    "Application.Telefonos2.executor": "Debug",
-    "Application.Telefonos2_2.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Mis Archivos (Disco duro)/Archivos de trabajo/FP Superior de DAW/Programación/Programas/Bloque 3 - Estructuras de datos/collections-SamAdeSan",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AlturaArrayList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Anagramas.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Coches.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountCountries.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejemplo1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ForEach.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Frequency.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Frequency_S.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LaMejorTerminacion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LastNameFrequency.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PaisCapital.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Telefonos.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Telefonos2.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Telefonos2_2.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/samadesan/IdeaProjects/collections-SamAdeSan&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/test" />
@@ -151,8 +129,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23726.103" />
-        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23726.103" />
+        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.23654.189" />
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-IU-243.23654.189" />
       </set>
     </attachedChunks>
   </component>
@@ -177,6 +155,10 @@
       <workItem from="1737113132561" duration="65000" />
       <workItem from="1737918530980" duration="13000" />
       <workItem from="1738062537611" duration="1324000" />
+      <workItem from="1738083856948" duration="21000" />
+      <workItem from="1738087022218" duration="3000" />
+      <workItem from="1738842220182" duration="29000" />
+      <workItem from="1738842311397" duration="205000" />
     </task>
     <task id="LOCAL-00001" summary="Coches.java">
       <option name="closed" value="true" />

@@ -7,12 +7,16 @@ public class Ej3 {
     public static int sumaDigitos(String digitos){
         int suma = 0;
         String res = "";
+
         for (int i = 0; i < digitos.length(); i++){
+
             suma += Integer.parseInt("" + digitos.charAt(i));
             res += digitos.length() + " + ";
+
             if (i < digitos.length() - 1){
                 res += digitos.charAt(i) + " + ";
-            }else res += digitos.charAt(i) + " = " + suma;
+            }
+            else res += digitos.charAt(i) + " = " + suma;
         }
         return suma;
     }
